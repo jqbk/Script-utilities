@@ -1,4 +1,5 @@
 # -*- coding:utf-8 -*-
+# 分析从HITRAN数据库中获取的数据
 
 import json
 from hapi import *
